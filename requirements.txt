@@ -1,0 +1,6 @@
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+rich>=13.0.0
